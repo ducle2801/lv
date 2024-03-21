@@ -7,6 +7,8 @@ Phiên bản Node.js sử dụng là Node.js v16.13.1 (hoặc phiên bản v16 c
 -	Tích hợp và hỗ trợ khách hàng tìm kiếm sản phẩm bằng hình ảnh và giọng nói
 -	Cải thiện kết quả tìm kiếm
 -	Cải thiện giao diện người dùng, hỗ trợ lọc sản phẩm nâng cao
+-	
+![image](https://github.com/ducle2801/lv/assets/150829102/607a8ca3-4332-415b-b22c-3263f2095e0a)
 
 ### Hướng dẫn cài đặt thư viện hỗ trợ đề tài (frontend & backend)
 <h5>Vào terminal và thực hiện</h5>
@@ -29,7 +31,6 @@ npm start
 # Chạy backend only (thư mục gốc)
 npm run dev
 ```
-![image](https://github.com/ducle2801/lv/assets/150829102/607a8ca3-4332-415b-b22c-3263f2095e0a)
 
 # Tài khoản đăng nhập vào website:
 ```
