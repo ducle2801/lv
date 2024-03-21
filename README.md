@@ -64,3 +64,13 @@ Quét mã QR để thanh toán
 
 
 # NLN_EcommerceWeb
+![image](https://github.com/ducle2801/lv/assets/150829102/d99c97d8-1709-4943-8c5b-a2c3ab9a1eb2)
+
+![image](https://github.com/ducle2801/lv/assets/150829102/5ea153f6-b936-45be-992a-e805cf7859d0)
+
+![image](https://github.com/ducle2801/lv/assets/150829102/33a58095-5831-40c8-8462-2059d88ceff7)
+
+![image](https://github.com/ducle2801/lv/assets/150829102/8f1412d6-ae1e-4893-a42a-6f7c41259fa6)
+
+
+
