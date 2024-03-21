@@ -45,19 +45,21 @@ MÃ THẺ: 9704198526191432198
 TÊN CHỦ THẺ: 	NGUYEN VAN A
 HẠN THẺ: 07/15
 CVC: 123456
+```
 ![image](https://github.com/ducle2801/lv/assets/150829102/d6086550-bbaa-4fa8-ba9c-27e35e35422e)
 
 ![image](https://github.com/ducle2801/lv/assets/150829102/e0f9a224-ecd7-41e5-9c20-4330172d57a6)
 
-```
+
 # Thông tin MOMO để test thanh toán:
 ```
 Download Momo UAT
 Đăng ký tài khoản bất kì
 Quét mã QR để thanh toán
+```
 ![image](https://github.com/ducle2801/lv/assets/150829102/8fd91f7b-0231-4575-a56b-6b062c5c14ed)
 
 ![image](https://github.com/ducle2801/lv/assets/150829102/ab2b9652-c6a2-418e-ab94-7d0f4ed99277)
 
-```
+
 # NLN_EcommerceWeb
