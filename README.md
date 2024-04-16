@@ -1,8 +1,8 @@
 # Đề tài: Website thương mại điện tử 
 
-Luận Văn Tốt Nghiệp Ngành Kỹ Thuật Phần Mềm
-Ngày báo cáo: 4/12/2023
-Điểm số: 9.3 
+- Luận Văn Tốt Nghiệp Ngành Kỹ Thuật Phần Mềm
+- Ngày báo cáo: 4/12/2023
+- Điểm số: 9.3 
 
 ## Hướng phát triển trong tương lai:
 -	Áp dụng công nghệ như AI, Machine Learning để gợi ý sản phẩm cho khách hàng
